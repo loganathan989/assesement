@@ -1,0 +1,18 @@
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+*.log
+*.pot
+*.py[co]
+*.swp
+.DS_Store
+*.sqlite3
+
+# Django stuff:
+static/
+media/
+
+# Virtual environments:
+venv/
+myenv/
